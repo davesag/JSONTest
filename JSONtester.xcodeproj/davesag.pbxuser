@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* JSONtesterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 663}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* JSONtester */ = {
+		activeExec = 0;
+		executables = (
+			F57B0445128BA0B100BC6524 /* JSONtester */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* JSONtesterViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1071, 586}}";
+			sepNavSelRange = "{1137, 0}";
+			sepNavVisRange = "{0, 1267}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* JSONtesterViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1071, 3185}}";
+			sepNavSelRange = "{3846, 0}";
+			sepNavVisRange = "{2134, 1559}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F57B0445128BA0B100BC6524 /* JSONtester */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JSONtester */;
+		codeSenseManager = F57B0451128BA0D700BC6524 /* Code sense */;
+		executables = (
+			F57B0445128BA0B100BC6524 /* JSONtester */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					893,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311636853;
+			PBXWorkspaceStateSaveDate = 311636853;
+		};
+		perUserProjectItems = {
+			F5703AE4129335CF008A50CB /* PBXTextBookmark */ = F5703AE4129335CF008A50CB /* PBXTextBookmark */;
+			F5703AE5129335CF008A50CB /* PBXTextBookmark */ = F5703AE5129335CF008A50CB /* PBXTextBookmark */;
+			F5703AE6129335CF008A50CB /* PBXTextBookmark */ = F5703AE6129335CF008A50CB /* PBXTextBookmark */;
+			F57B0462128BAC7100BC6524 /* PBXTextBookmark */ = F57B0462128BAC7100BC6524 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F57B0450128BA0D700BC6524 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F5703AE4129335CF008A50CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JSONtesterViewController.h */;
+		name = "JSONtesterViewController.h: 34";
+		rLen = 0;
+		rLoc = 1137;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 0;
+	};
+	F5703AE5129335CF008A50CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JSONtesterViewController.m */;
+		name = "JSONtesterViewController.m: 116";
+		rLen = 0;
+		rLoc = 3846;
+		rType = 0;
+		vrLen = 1480;
+		vrLoc = 2285;
+	};
+	F5703AE6129335CF008A50CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JSONtesterViewController.m */;
+		name = "JSONtesterViewController.m: 116";
+		rLen = 0;
+		rLoc = 3846;
+		rType = 0;
+		vrLen = 1559;
+		vrLoc = 2134;
+	};
+	F57B0445128BA0B100BC6524 /* JSONtester */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JSONtester;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F57B0450128BA0D700BC6524 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F57B0451128BA0D700BC6524 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F57B0462128BAC7100BC6524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JSONtesterAppDelegate.m */;
+		name = "JSONtesterAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 0;
+	};
+}
