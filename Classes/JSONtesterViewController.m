@@ -120,7 +120,7 @@
 	
 	NSString *username = @"root";
 	NSString *password = @"password";
-	NSString *jsonRequest = [NSString stringWithFormat:@"{\"username\": \"%@\", \"password\": \"%@\" }",
+	NSString *jsonRequest = [NSString stringWithFormat:@"{\"email\": \"%@\", \"password\": \"%@\" }",
 							 username, [password rot13String]];
 	
 	NSLog(@"Request: %@", jsonRequest);
